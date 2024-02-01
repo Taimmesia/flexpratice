@@ -1,0 +1,48 @@
+.container {
+  max-width: 468px;
+  height: 160px;
+  margin: 90px 20px 20px 98px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+
+  background-color: #f48c06;
+}
+
+body {
+  max-width: 1152px;
+  width: 100%;
+  min-height: 100vh;
+  height: 700px;
+  color: #ffffff;
+  background-color: #370617;
+}
+
+section {
+  display: inline-block;
+}
+
+.card__start {
+  margin: 8px 10px;
+  padding: 15px;
+  background-color: #9d0208;
+}
+
+.card__centre {
+  margin: 8px 10px;
+  padding: 15px;
+  background-color: #9d0208;
+}
+
+.card__end {
+  margin: 8px 10px;
+  padding: 15px;
+  background-color: #9d0208;
+}
+
+.card__middle {
+  margin: 20px 20px;
+  padding: 15px 20px;
+  row-gap: 1rem;
+  background-color: #9d0208;
+}
